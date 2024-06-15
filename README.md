@@ -12,7 +12,7 @@ JavaScript: Use JavaScript para adicionar interatividade à sua página. Por exe
 
 video:
 <video width="320" height="240" autoplay>
-  <source src="[movie.mp4](https://youtu.be/oxz_LTQGXEk)" type="video/mp4">
+  <source src="https://youtu.be/oxz_LTQGXEk" type="video/mp4">
 
 </video>
 
