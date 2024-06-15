@@ -11,4 +11,8 @@ Bootstrap: Utilize o Bootstrap para adicionar componentes e estilos prontos para
 JavaScript: Use JavaScript para adicionar interatividade à sua página. Por exemplo, você pode adicionar funcionalidades como adicionar novas tarefas, marcar tarefas como concluídas e excluir tarefas da lista. Você também pode usar JavaScript para validar formulários e garantir que os dados inseridos sejam corretos.
 
 video:
-![Video](https://youtu.be/oxz_LTQGXEk)
+<video width="320" height="240" autoplay>
+  <source src="[movie.mp4](https://youtu.be/oxz_LTQGXEk)" type="video/mp4">
+
+</video>
+
